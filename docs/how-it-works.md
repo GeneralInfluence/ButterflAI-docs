@@ -34,7 +34,9 @@ words that set it** — so anyone in the plan can tap "when" and see who said "F
 in details someone actually said; if nobody gave a time, the plan says "evening" or "time TBD", not a made-up 7 pm.
 
 Hosts and co-hosts decide; guests suggest. A change by anyone reaches everyone in the plan, and the plan shows who has seen
-it. Plans can sit inside plans (a dinner that's part of a birthday weekend).
+it. A plan can be made of moments — Friendsgiving holds "shop together Wednesday", "cook the sprouts at Sam's" and the
+dinner itself. Each moment has its own when, where and who (just the people doing it); everyone in the plan sees the whole
+schedule, and it's all one conversation.
 
 ## Assistants coordinate so people don't have to
 
