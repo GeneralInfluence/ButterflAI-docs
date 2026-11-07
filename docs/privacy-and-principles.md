@@ -21,8 +21,9 @@
   what a plan needs (is Friday free, any allergies), never your conversation.
 - **Who you'd rather avoid** is used quietly — that person isn't invited, and nobody is ever told why.
 - **Friends' details you import** (names and numbers) are yours only. Importing a contact never means messaging them.
-- **Anyone can see what's saved about them** at [butterflai.social/me](https://butterflai.social/me) — no account needed, a code
-  to their number or email proves it's them — and correct their name or erase it. You can delete your own account in Settings,
+- **Anyone can check if they're in someone's ButterflAI** at [butterflai.social/me](https://butterflai.social/me) — no account
+  needed, a code to their number or email proves it's them. They see how many people saved them and as what name, not who; they
+  can fix their name or remove themselves everywhere. You can delete your own account in Settings,
   and you get a confirmation when it's done.
 
 ## Kids
