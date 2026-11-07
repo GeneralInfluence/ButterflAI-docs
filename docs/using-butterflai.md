@@ -2,8 +2,9 @@
 
 ## Getting started
 
-1. Open **[butterflai.social](https://butterflai.social)** on your phone and sign in with your phone number (you'll get a
+1. Open **[butterflai.social](https://butterflai.social)** on your phone and sign in with your phone number or your email (you'll get a
    one-time code). If you'd like texts from ButterflAI when you're not in the app, tick the box — it's optional.
+   Kids under 13 can't sign up on their own: a parent adds them in Settings → Family, and they sign in with their email.
 2. Add it to your home screen (Share → Add to Home Screen on iPhone; Install on Android) and turn on notifications.
 3. Tell it your name, and connect your contacts and calendar if you'd like it to know who your friends are and when you're
    free (Google or iCloud, from Settings).

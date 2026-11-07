@@ -22,6 +22,13 @@
 - **Who you'd rather avoid** is used quietly — that person isn't invited, and nobody is ever told why.
 - **Friends' details you import** (names and numbers) are yours only. Importing a contact never means messaging them.
 
+## Kids
+
+Children under 13 join only when a parent adds them from the parent's own account, which is the parent's consent. A kid's
+account can't share where they are, can't get anonymous notes, and is never matched with people they don't know; its ideas
+are family-friendly. The parent can delete the account and everything in it at any time. Teens (13–17) can't use the
+features that meet new people either.
+
 ## What we can and can't promise
 
 ButterflAI runs on our servers, and its reasoning uses Anthropic's Claude models: your messages are sent to Anthropic to be
